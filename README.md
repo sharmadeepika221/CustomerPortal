@@ -12,10 +12,10 @@ This is a Spring Boot Web application used to manage the customers.
         mvn spring-boot:run
 ```
 
-The REST API details are mentioned in the below url . The port used is 9090. 
+The REST API details are mentioned in the below url . The port used is 9444. 
 ```
-        http://localhost:9444/swagger-ui.html#/
-
+        Swagger Ui url --- http://localhost:9444/swagger-ui.html#/
+        H2-console url --- http://localhost:9444/h2-console/
 ```
 
 ## Endpoints :
